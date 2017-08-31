@@ -8,7 +8,6 @@
 // - Przykład tworzenia menu głównego
 // - Przyklad otwierania pliku
 // TODO: Udoskonalic funkcje ladujaca menu, tak, zeby mozna bylo zdefiniowac elementy menu w tablicy tekstowej i podac jako argument wejsciowy
-// teraz w git
 
 define([
     'base/js/namespace',
